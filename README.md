@@ -32,9 +32,9 @@ Fully Dockerized with docker-compose for isolated, reproducible environments.
 
 🚀 **Getting Started**
 ✅ *Prerequisites*
-    - Docker
+    -Docker
 
-    - Docker Compose
+    -Docker Compose
 
 🛠️ *Setup Instructions*
 - Clone the Repository
